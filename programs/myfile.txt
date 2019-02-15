@@ -1,0 +1,15 @@
+python in django
+flask
+aws
+odoo
+pyramid
+aws
+odoo
+pyramid
+aws
+odoo
+pyramid
+aws
+odoo
+pyramid
+123

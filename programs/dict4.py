@@ -1,0 +1,11 @@
+x={"java":80,"python":20,"aws":56,"hadoop":89}
+print(x)
+y=x.copy()
+print(y)
+x.pop("aws")
+print(x)
+x.popitem()
+print(x)
+x.clear()
+print(x)
+print(y)

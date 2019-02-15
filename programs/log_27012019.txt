@@ -1,0 +1,12 @@
+WARNING:root:warning message
+ERROR:root:Error message
+CRITICAL:root:critical message
+2019-01-27 18:45:21,740:WARNING:warning message
+2019-01-27 18:45:21,740:ERROR:Error message
+2019-01-27 18:45:21,740:CRITICAL:critical message
+27/01/2019 18:51:30 PM:WARNING:warning message
+27/01/2019 18:51:30 PM:ERROR:Error message
+27/01/2019 18:51:30 PM:CRITICAL:critical message
+27/01/2019 06:52:37 PM:WARNING:warning message
+27/01/2019 06:52:37 PM:ERROR:Error message
+27/01/2019 06:52:37 PM:CRITICAL:critical message

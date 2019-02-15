@@ -1,0 +1,13 @@
+x=[10,20,30,40,50,10]
+print(x)
+y=[70,80,90]
+x.remove(10)
+print(x)
+x.pop(3)
+print(x)
+x.sort()
+print(x)
+y.reverse()
+print(y)
+x.clear()
+print(x)

@@ -1,0 +1,14 @@
+x={10,20,10,30}
+print(x)
+print(type(x))
+print(len(x))
+y=set({10})
+print(y)
+print(type(y))
+print(len(y))
+z={100,200.30,True}
+print(z)
+a,b,c=z
+print(a,type(a))
+print(b,type(b))
+print(c,type(c))
