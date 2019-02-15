@@ -1,0 +1,10 @@
+import cx_Oracle
+#print(cx_Oracle)
+con=cx_Oracle.connect("system","manager","localhost:1521/xe")
+cur=con.cursor()
+print(cur)
+myvar=con.var(cx_Oracle.NUMBER)
+cur.callproc('p1',(10,myvar))
+print(myvar.getvalue())
+cur.close()
+con.close()
